@@ -1,0 +1,7 @@
+pypdf
+pandas
+matplotlib
+seaborn
+beautifulsoup4
+lxml
+openpyxl

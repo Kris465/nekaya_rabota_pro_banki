@@ -1,1 +1,0 @@
-# nekaya_rabota_pro_banki
